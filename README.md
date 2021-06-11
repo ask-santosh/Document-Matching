@@ -7,7 +7,7 @@ The Levenshtein distance is a metric to measure how apart are two sequences of w
 
 The formal definition of the Levenshtein distance between two strings a and b can be seen as follows:
 
-https://github.com/ask-santosh/Document-Matching/blob/main/old_code/Screen_Shot_2019-02-04_at_10.55.46_AM_kxnz1h.png
+![alt text](https://github.com/ask-santosh/Document-Matching/blob/main/old_code/Screen_Shot_2019-02-04_at_10.55.46_AM_kxnz1h.png?raw=true)
 
 
 Where 1(ai≠bj) denotes 0 when a=b and 1 otherwise. It is important to note that the rows on the minimum above correspond to a deletion, an insertion, and a substitution in that order.
