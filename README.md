@@ -16,3 +16,11 @@ It is also possible to calculate the Levenshtein similarity ratio based on the L
 
 (|a|+|b|)−leva,b(i,j)|a|+|b|
 where |a| and |b| are the lengths of sequence a and sequence b respectively.
+
+
+How to run the program-
+1. Place your pdf files in current_files folder .
+2. Run the final_main.py file 
+3. Input the desired file 
+4. Result will be stored in 
+
