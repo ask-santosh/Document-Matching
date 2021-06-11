@@ -19,8 +19,10 @@ where |a| and |b| are the lengths of sequence a and sequence b respectively.
 
 
 How to run the program-
-1. Place your pdf files in current_files folder .
+1. Place your pdf files in current_data folder .
 2. Run the final_main.py file 
 3. Input the desired file 
-4. Result will be stored in 
+4. Result will be stored in verified_results folder 
+
+In case for different template pattern, change your x1,x2,y1,y2 in the code .
 
