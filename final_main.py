@@ -175,7 +175,7 @@ def color_cells(x):
 
 
 if __name__ == "__main__":
-    jk_pdf = input('Give pdf of JK Agency (2020 template): ')
+    jk_pdf = input('Give pdf of JK Agency ({specific year} template): ')
     cd_pdf = input('Give pdf of CD Associates: ')
 
     result_dir = convert2images(jk_pdf)
